@@ -58,3 +58,7 @@ Esses dados fornecem uma visão sobre quais segmentos de clientes responderam me
 ## Padrões de Compra por Ponto de Venda
 ![Sales Analysis](media/page4.gif)
 
+A quarta e última página do relatório foca na separação de vendas e gastos por categoria nos diferentes países. 
+
+- Total Gasto em Diferentes Categorias por País: A linha de tendência sugere que os Estados Unidos têm os maiores gastos por categoria, seguido de uma queda acentuada nos países seguintes.
+- Total de Gastos por Ano e País: É um gráfico de linhas que mostra a evolução do total de gastos por ano, de 2018 a 2023, para os países contemplados. Novamente os Estados Unidos destacam-se com um crescimento contínuo e mais expressivo. Outros países, como Espanha, Chile e Alemanha, mostram uma tendência de estabilidade ou crescimento menor.
