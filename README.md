@@ -1,5 +1,4 @@
-# PowerBI_marketing_project
-
+# PowerBI - Projeto 1: Análise de Dados de Marketing
 
 Um projeto de análise de dados para demonstrar funcionalidades do PowerBI. Dados fictícios são utilizados para analisar a efetividade de campanhas de marketing na venda de produtos. Baseado no curso "Business Intelligence e Data Science" da Data Science Academy.
 
